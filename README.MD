@@ -15,5 +15,5 @@
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" />
 <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-27ae60?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-9b59b6?style=flat-square&logo=php&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/-Web Langages-2c3e50?style=flat-square&logo=html5&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/-Web Languages-2c3e50?style=flat-square&logo=html5&logoColor=white" />
 </p>
