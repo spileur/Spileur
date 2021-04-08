@@ -1,6 +1,6 @@
 
 <a href="https://spileur.fr">
-	<img src="https://i.imgur.com/QFqFghh.png" alt="Go to my Website">
+	<img src="https://i.imgur.com/lfQGBul.png" alt="Go to my Website">
 </a>
 
 <h1>Welcome ! <img src="https://cdn.discordapp.com/emojis/744428458817618050.gif?size=64&v=1" width="40"></h1>
