@@ -5,7 +5,7 @@
 
 <h1>Welcome ! <img src="https://cdn.discordapp.com/emojis/744428458817618050.gif?size=64&v=1" width="40"></h1>
 <p>I'm Valentin, a student at the engineering school <a href="https://www.epita.fr/en">EPITA</a> 👨‍🎓</p>
-<h3>I'm learning several languages</h3>
+<h3>My main technological skills</h3>
 <p>
 <img alt="Java" src="https://img.shields.io/badge/-Java-c0392b?style=flat-square&logo=java&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/-C-7f8c8d?style=flat-square&logo=c&logoColor=white" />
